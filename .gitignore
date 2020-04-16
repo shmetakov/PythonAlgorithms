@@ -1,3 +1,4 @@
 .*
-lesson*.py
-
+lesson*
+home.py
+__*__
